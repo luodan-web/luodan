@@ -1,0 +1,10 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: "Helvetica Neue";
+}
+.my_header{
+	width:100%;
+	border:0;
+	/* height: 100%; */
+}

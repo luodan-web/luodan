@@ -1,0 +1,57 @@
+.footer_1{
+	width: 100%;
+	background-color: #EEEEEE;
+	padding: 20px 0px 40px;
+}
+.footer_3{
+	height: 68px;
+	width: 29px;
+	background-color: #666666;
+	color: #FFFFFF;
+	font-size: 14px;
+	padding: 5px 20px;
+}
+.footer_4:hover{
+	background-color: #c7161c;
+	color: #FFFFFF;
+	text-decoration:none;
+}
+.footer_5{
+	font-size: 12px;
+}
+.fonter_6{
+	color: #666666;
+}
+.footer_3_1{
+	font-size: 18px;
+}
+.footer_1_1{
+	background: url(../img/dbicon.png) no-repeat;
+	width: 228px;
+	height: 120px;
+	 background-position: -16px 18px;
+}
+.footer_1_2{
+	background: url(../img/dbicon.png) no-repeat;
+	width: 228px;
+	height: 120px;
+	 background-position:12px -98px;
+}
+.footer_1_3{
+	background: url(../img/dbicon.png) no-repeat;
+	width: 228px;
+	height: 120px;
+	 background-position:40px -222px;
+}
+.footer_1_4{
+	background: url(../img/dbicon.png) no-repeat;
+	width: 228px;
+	height: 120px;
+	 background-position: 60px -337px;
+}
+.footer_1_5{
+	background: url(../img/dbicon.png) no-repeat;
+	width: 228px;
+	height: 120px;
+	 background-position:77px -468px;
+}

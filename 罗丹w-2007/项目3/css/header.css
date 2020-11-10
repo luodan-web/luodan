@@ -1,0 +1,21 @@
+.img_1{
+	height: 44px;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+  content: " ";
+}
+.title_1{
+	padding: 12px 16px;
+}
+.title_1_2{
+	background: url(../img/icon.png) no-repeat;
+	height:18px;
+	background-position: -286px -76px;
+}
+.title_1_3{
+	color: #684029;
+}
+.a:hover{
+	text-decoration: none;
+	color:#c7161c;
+}

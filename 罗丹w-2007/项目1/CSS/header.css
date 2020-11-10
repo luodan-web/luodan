@@ -1,0 +1,53 @@
+.header_1{
+	height: 40px;
+	background-color: #eee;
+	
+}
+.font_small{
+	color:#333333;
+	font-size: 14px;
+	line-height: 40px;
+}
+ 
+.img_1{
+	width: 22px;
+	height: 22px;
+}
+.img_2{
+	width: 23px;
+	height: 23px;
+}
+
+.breadcrumb-item + .breadcrumb-item::before{
+	content: "|";
+}
+.breadcrumb{
+	float: right;
+}
+.dianji_1:hover{
+	text-decoration: none;
+	color: #C7161C;
+}
+.img_3{
+	width:36px;	
+	height:40px;
+	
+}
+.img_4{
+	width:18px;	
+	height:22px;
+	
+}
+.big_font{
+	color: #C7161C;
+	font-size: 28px;
+	line-height: 64px;
+}
+.small_font_1{
+	font-size:18px ;
+	color: #C7161C;
+}
+.small_font_2{
+	color: #777777;
+	font-size:14px ;
+}
